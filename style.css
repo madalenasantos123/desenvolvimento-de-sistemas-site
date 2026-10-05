@@ -1,0 +1,17 @@
+h1{
+    color: rgb(255, 0, 102);
+    text-align: center;
+}
+
+
+body{
+    background-color: rgb(64, 92, 158);
+}
+.imagens{
+    text-align: center;
+}
+
+p{font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+
+}
